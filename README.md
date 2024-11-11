@@ -14,17 +14,19 @@ Outside of coding, I'm always up for a chat about tech trends, a competitive gam
 Here are some of the tools and frameworks that power my projects:
 
 ### Languages & Frameworks
-- ![.NET Core](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dot-net.svg)
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dot-net.svg" width="20" height="20"> **.NET Core**
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" width="20" height="20"> **React**
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" width="20" height="20"> **Python**
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+- <img src="https://img.icons8.com/color/48/000000/javascript.png" width="20" height="20"> **JavaScript**
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" width="20" height="20"> **TypeScript**
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tailwindcss.svg" width="20" height="20"> **Tailwind CSS**
+- <img src="https://img.icons8.com/color/48/000000/html-5.png" width="20" height="20"> **HTML**
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mysql.svg" width="20" height="20" style="color: #4479A1;"> **SQL**
 
 ### AI/ML Frameworks
-- ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-- ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/pytorch.svg" width="20" height="20"> **PyTorch**
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tensorflow.svg" width="20" height="20"> **TensorFlow**
+
 
 ### Styling & Design
 - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
