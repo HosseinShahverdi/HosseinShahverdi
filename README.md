@@ -14,7 +14,7 @@ Outside of coding, I'm always up for a chat about tech trends, a competitive gam
 Here are some of the tools and frameworks that power my projects:
 
 ### Languages & Frameworks
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dot-net.svg" width="20" height="20"> **.NET Core**
+- <img src="https://img.icons8.com/ios-filled/50/512BD4/dot-net.png" width="20" height="20"> **.NET Core**
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" width="20" height="20"> **React**
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" width="20" height="20"> **Python**
 - <img src="https://img.icons8.com/color/48/000000/javascript.png" width="20" height="20"> **JavaScript**
