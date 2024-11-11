@@ -44,9 +44,9 @@ Here are some of the tools and frameworks that power my projects:
 ## 📫 Reach Out!
 If you're up for collaboration, brainstorming, or just want to swap coding stories, please feel free to reach out 😊!
 
-- 📧 [Gmail](mailto:h.shahverdi1997@gmail.com) ![Gmail Sticker](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)
-- 💬 [Telegram](https://t.me/Dear_Hossein_Shah)) ![Telegram Sticker](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)
-- 🐦 [Twitter](https://twitter.com/shahhosseinjoon) ![Twitter Sticker](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)
+- 📧 [Gmail](mailto:h.shahverdi1997@gmail.com) 
+- 💬 [Telegram](https://t.me/Dear_Hossein_Shah) 
+- 🐦 [Twitter](https://twitter.com/shahhosseinjoon)
 
 
 ---
