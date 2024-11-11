@@ -27,10 +27,6 @@ Here are some of the tools and frameworks that power my projects:
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/pytorch.svg" width="20" height="20"> **PyTorch**
 - <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tensorflow.svg" width="20" height="20"> **TensorFlow**
 
-
-### Styling & Design
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
 ---
 
 ## 🌱 Currently...
