@@ -14,10 +14,10 @@ Outside of coding, I'm always up for a chat about tech trends, a competitive gam
 Here are some of the tools and frameworks that power my projects:
 
 ### Languages & Frameworks
-- ![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat&logo=.net&logoColor=white)
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![.NET Core](https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/dot-net.svg)
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" width="20" height="20"> **React**
+- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" width="20" height="20"> **Python**
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
